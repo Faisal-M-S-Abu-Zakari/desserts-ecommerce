@@ -1,0 +1,50 @@
+.Cart{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+}
+.Cart h1{
+    color: #ca3b19;
+}
+.Card{
+    border-radius: 20px !important;
+}
+.Card button{
+    padding: 10px;
+    margin-top: -18px;
+    border-radius: 20px;
+    border: 1px solid black;
+    text-align: center;
+    column-gap: 5px;
+    font-size: 16px;
+    background-color: white;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.dessert{
+    background-color: hsl(20, 50%, 98%);
+}
+.info{
+    color: black;
+    font-size: 18px;
+}
+.title{
+    font-size: 15px;
+}
+.price{
+    color: #ca3b19;
+    font-size: 15px;
+    font-weight: normal;
+}
+.icon-container svg{
+    cursor: pointer;
+    background-color: transparent;
+}
+.confirm{
+    text-align: center;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #ca3b19;
+    font-size: 20px;
+}
